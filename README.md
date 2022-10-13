@@ -23,7 +23,7 @@ The aim is to build a classifier for the target variable (Disease vs Non-disease
 DATASET (Cleaveland):
 ##################
 
-The dataset contain 13 columns. Target is the class variable which is affected by other 12 columns.  
+The dataset contain 14 columns. Target is the class variable which is affected by other 13 columns.  
 
 Attribute Information
 
